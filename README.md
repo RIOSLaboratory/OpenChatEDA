@@ -1,5 +1,4 @@
-![d944c41020e1aa6319c815a2241af5bd_245348954-9f3d5cb0-e9f8-48c8-b4e6-38c896d54da8](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/4b35880e-241c-4639-b721-54ec10023766)
-
+![image](https://github.com/user-attachments/assets/61608021-e681-4083-904d-1c8af083dced)
 
 
 # OpenChatEDA
@@ -39,8 +38,8 @@ OpenChatEDA is an open-source platform that enables engineers and researchers to
 
 
 ## About RIOS Lab
-![86831b4376ec6a9615bb54533c442366_245438239-6aae13c6-50a5-40c3-9a4e-ed4c79d41c20](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/b716a57a-4983-460a-ad13-7c52e89283e5)
 
+![image](https://github.com/user-attachments/assets/13757196-7c51-4406-982a-f3a6537b4b17)
 
 
 **Ecosystem Wants to be Free**
