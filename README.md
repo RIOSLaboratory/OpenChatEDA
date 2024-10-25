@@ -38,4 +38,20 @@ The OpenChatEDA platform has many potential applications in the semiconductor in
 OpenChatEDA is an open-source platform that enables engineers and researchers to develop and test EDA algorithms using NLP techniques. It provides a set of pre-trained models for various EDA tasks, as well as the ability to train custom models using user-provided datasets. The platform has many potential applications in the semiconductor industry and beyond, and is designed to be easy to use and flexible.
 
 
+## About RIOS Lab
+![86831b4376ec6a9615bb54533c442366_245438239-6aae13c6-50a5-40c3-9a4e-ed4c79d41c20](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/b716a57a-4983-460a-ad13-7c52e89283e5)
+
+
+
+**Ecosystem Wants to be Free**
+
+By David A. Patterson · Director of RIOS Lab
+
+**RISC-V International Open Source Laboratory** (RIOS Lab) is a Shenzhen-based research facility focused on computer system architecture, supported by the Tsinghua-Berkeley Shenzhen Research Institute. As an Open Source and Nobel Prize Laboratory, RIOS Lab promotes open-source innovation and collaboration. Our philosophy is that the computer architecture ecosystem should be free for all to access and build upon.
+
+In November 2019, RIOS Lab was officially unveiled. Under the leadership of 2017 A.M. Turing Award winner Prof. David A. Patterson and operational support from TBSI,  RIOS Lab will conduct cutting-edge research in RISC-V hardware and software technology. Patterson first proposed the Reduced Instruction Set Computer (RISC), an open and free instruction set architecture enabling a new era of processor innovation through open standard collaboration. Released in 2010, the latest Fifth Generation RISC has gained worldwide attention.
+
+The name for the lab RIOS is also inspired by the Spanish word for “rivers.” It symbolizes the flow of information from many sources, coming together to create a whole that is greater than the sum of its parts.
+
+
 
