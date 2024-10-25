@@ -1,4 +1,4 @@
-![image](https://github.com/RIOSMPW/ChatEDA/assets/109063674/e3b6ffc0-5b85-4726-abe7-5d078337e07d)
+
 
 
 # OpenChatEDA
